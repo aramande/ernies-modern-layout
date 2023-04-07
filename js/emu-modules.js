@@ -34,6 +34,7 @@ export const MODULE = [
 	'macroeditor',
 	'maestro',
 	'midi-qol',
+	'monks-combat-details',
 	'monsterblock',
 	'motion_tracker',
 	'moulinette-core',
